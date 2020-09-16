@@ -1,0 +1,4 @@
+% fedora
+
+# Install package
+sudo dnf install <package>
